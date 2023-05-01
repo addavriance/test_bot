@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 
 from utils.file_handler import get_data, update_data
 
-bot = Bot(token='6095252808:AAH2IaW9Eg1gu3E27x4AMlvunBknAKnHAP4')
+bot = Bot(token='6095252808:AAFWCaBAHhg2TemwBblFHJp-Tye7Sf6CImY')
 dp = Dispatcher(bot)
 
 
