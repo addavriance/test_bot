@@ -19,7 +19,7 @@ def format_to_text(match: dict) -> str:
 
 
 def start_parse():
-    while True:
+#     while True:
         try:
             now = datetime.datetime.now()
             time_str = now.strftime("%H:%M:%S")
